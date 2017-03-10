@@ -1,7 +1,12 @@
 ﻿# WCTMB
-convert WideChar To MultiByte / MultiByte to WideChar.
+convert unicode. WideChar To MultiByte / MultiByte to WideChar.
 
 # Functions
+
+## Usage
+```cpp
+#include "unicode.h"
+```
 
 ## w2m()
 convert WideChar to MultiByte.
